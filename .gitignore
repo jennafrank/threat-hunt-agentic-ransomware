@@ -1,0 +1,23 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Source documents & Office lock files (publish the Markdown, not the drafts)
+*.docx
+*.pdf
+~$*
+
+# Never publish grading, debriefs, or private notes
+*debrief*
+*grade*
+*feedback*
+private/
+notes-private/
+
+# Secrets
+.env
+*.pem
+*.key
