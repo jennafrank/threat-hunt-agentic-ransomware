@@ -105,7 +105,7 @@ This hunt ran in the **Log(N) Pacific cyber range**. "Flowforge," "PacificWatch 
 <div align="center">
 
 **Jenna Frank** · Hot Pink Huntress 💗<br/>
-*Cybersecurity student by day. Threat hunter by night. Builder of honeypots, breaker of assumptions.*
+*Cybersecurity operations by day. Threat hunter by night. Builder of honeypots, breaker of assumptions.*
 
 [GitHub](https://github.com/jennafrank) · [JennaFrank.co](https://www.JennaFrank.co) · [LinkedIn](https://linkedin.com/in/jenna-frank-4352b12b0)
 
